@@ -10,6 +10,16 @@ const sites = [
     'https://ok.ru',
     'https://discord.com',
     'https://notexttospeech.com',
+    'https://facebook.com',
+    'https://yahoo.com',
+    'https://live.com',
+    'https://wikipedia.org',
+    'https://msn.com',
+    'https://microsoft.com',
+    'https://blogspot.com',
+    'https://baidu.com',
+    'https://qq.com',
+    'https://mozilla.com',
 ];
 
 randomButton.addEventListener('click', () => {
