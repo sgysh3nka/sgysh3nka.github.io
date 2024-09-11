@@ -22,6 +22,8 @@ const sites = [
     'https://mozilla.com',
     'https://telegram.org',
     'https://t.me/hamster_kombat_bot',
+    'https://tiktok.com',
+    'https://likee.video',
 ];
 
 randomButton.addEventListener('click', () => {
