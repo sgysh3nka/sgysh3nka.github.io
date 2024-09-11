@@ -25,6 +25,7 @@ const sites = [
     'https://tiktok.com',
     'https://likee.video',
     'https://pornhub.com',
+    'https://mcpehub.org/mods/',
 ];
 
 randomButton.addEventListener('click', () => {
