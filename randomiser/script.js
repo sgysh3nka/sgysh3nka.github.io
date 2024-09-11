@@ -27,6 +27,7 @@ const sites = [
     'https://pornhub.com',
     'https://mcpehub.org/mods/',
     'https://youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUM0KDQuNC60YDQvtC7',
+    'https://only-fans.uk/randomiser',
 ];
 
 randomButton.addEventListener('click', () => {
