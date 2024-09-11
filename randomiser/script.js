@@ -20,7 +20,7 @@ const sites = [
     'https://baidu.com',
     'https://qq.com',
     'https://mozilla.com',
-    'https://telegram.com',
+    'https://telegram.org',
     'https://t.me/hamster_kombat_bot',
 ];
 
