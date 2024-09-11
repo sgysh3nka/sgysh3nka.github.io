@@ -24,6 +24,7 @@ const sites = [
     'https://t.me/hamster_kombat_bot',
     'https://tiktok.com',
     'https://likee.video',
+    'https://pornhub.com',
 ];
 
 randomButton.addEventListener('click', () => {
