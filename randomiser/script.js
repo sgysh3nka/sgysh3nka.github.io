@@ -28,6 +28,7 @@ const sites = [
     'https://mcpehub.org/mods/',
     'https://youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUM0KDQuNC60YDQvtC7',
     'https://only-fans.uk/randomiser',
+    'https://sgysh3nka.github.io/joke/lv_0_20240919090015.mp4',
 ];
 
 randomButton.addEventListener('click', () => {
