@@ -13,4 +13,4 @@ wait(10000)
 console.log("YOUR IP")
 location.href="https://whatismyipaddress.com/"
 wait(5000)
-console.log("Is this a good gift?)
+console.log("Is this a good gift?")
