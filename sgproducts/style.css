@@ -10,20 +10,13 @@ body {
   text-align: center;
 }
 
-.masthead {
-  padding: 6em 0;
-  background-image: url('../sgproducts/sgproducts.png');
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 .masthead-heading {
     margin-top: -0.2em;
     font-weight: bold;
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #000000;
 }
 
 .details {
